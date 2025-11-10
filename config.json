@@ -1,0 +1,9 @@
+{
+  "smtpHost": "smtp_host",
+  "smtpPort": 587,
+  "ussSsl": false,
+  "username": "smtp_username",
+  "password": "smtp_password",
+  "fromEmail": "from@example.com",
+  "toEmail": "to@example.com"
+}
